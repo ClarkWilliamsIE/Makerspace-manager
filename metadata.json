@@ -1,0 +1,5 @@
+{
+  "name": "MakerspaceOS",
+  "description": "A comprehensive dashboard for library makerspace staff to manage user statistics, finances, activator projects, class planning, and inspiration boards with a modern bento-box aesthetic.",
+  "requestFramePermissions": []
+}
